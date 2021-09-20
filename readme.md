@@ -1,5 +1,5 @@
 # Three.js Journey
-
+ ## GO LIVE HERE - https://prankush-3d-model-materials.netlify.app/
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
@@ -14,4 +14,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
- ## GO LIVE HERE - https://prankush-3d-model-materials.netlify.app/
+ This repo contains all the materials required to make the wooden texture 
